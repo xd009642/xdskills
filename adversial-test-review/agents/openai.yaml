@@ -1,0 +1,4 @@
+interface:
+  display_name: "Adversarial Test Review"
+  short_description: "Test PR behavior against independent public contracts"
+  default_prompt: "Use $adversarial-test-review to review this change with independently authored public API tests and report reproducible contract violations."

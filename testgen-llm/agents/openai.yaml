@@ -1,0 +1,4 @@
+interface:
+  display_name: "TestGen-LLM"
+  short_description: "Improve existing tests with measured coverage gains"
+  default_prompt: "Use $testgen-llm to extend this component's unit tests and verify each added test's coverage contribution."
